@@ -1,4 +1,13 @@
-Use Commands
-composer install  so that the required packges are installed
-php artisan migrate  to add the migration
-php artisan serve to run the project
+
+
+Then install dependencies using Composer
+
+composer install
+
+Run the application with the following command
+
+$ php artisan migrate
+
+$ php artisan serve
+
+
